@@ -1,1 +1,2 @@
 # lyl_nuxt
+closed
